@@ -26,4 +26,4 @@ Edit the yaml file or choose a topic inside the yaml file and :
 `python main.py --from-yaml drones` To have the summary about drones in 2025.
 
 ## How to improve it
-You can connect this with an API to send the summary by mail and you can automatize the code process by coding a cron job or using n8n (or airflow).
+You can connect this with an API to send the summary by mail and you can schedule runs with a cron job, n8n or GitHub Actions (or airflow).
