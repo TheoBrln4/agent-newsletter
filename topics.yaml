@@ -1,0 +1,25 @@
+topics:
+  - name: drones
+    query: "drones technologie actualités 2026"
+    description: "Veille sur les avancées technologiques, usages civils et militaires des drones"
+    output: "newsletter_drones.md"
+
+  - name: intelligence_artificielle_agentique
+    query: "agents IA autonomes agentic AI 2026"
+    description: "Systèmes d'IA capables d'agir de façon autonome, orchestration multi-agents"
+    output: "newsletter_ia_agentique.md"
+
+  - name: cybersecurite
+    query: "cybersécurité menaces vulnérabilités 2025"
+    description: "Nouvelles menaces, failles, et pratiques défensives en sécurité informatique"
+    output: "newsletter_cybersecurite.md"
+
+  - name: energie
+    query: "énergie renouvelable transition énergétique 2025"
+    description: "Avancées dans le solaire, l'éolien, le stockage et la transition énergétique"
+    output: "newsletter_energie.md"
+
+  - name: quantique
+    query: "informatique quantique ordinateur quantique 2025"
+    description: "Progrès en calcul quantique, qubits, applications industrielles"
+    output: "newsletter_quantique.md"

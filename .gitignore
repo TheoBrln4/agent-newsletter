@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+newsletter_drones.md
+Newsletter_micoel.md

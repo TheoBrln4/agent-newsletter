@@ -1,0 +1,3 @@
+MODEL = "claude-sonnet-4-6"
+MAX_SEARCH_RESULTS = 8
+MAX_TOKENS = 4096
