@@ -17,10 +17,10 @@ It is possible to take open source agents but you have to change the code part r
 You have to have anthropic, ddgs, dotenv and pyyaml to execute the program.
 ### How to launch it
 Two ways to use it :
-`python main.py --topic key words search 2025` inside the console.
-Here you search for your own topic. Avoid the link words like 'of', 'the' or 'or' and keep just the key words to have the best results.
+`python main.py --topic 'world models and robotic applications'` inside the console.
+Here you search for your own topic.
 You can add --output to name your produced markdown file.
-`python main.py --topic key words search 2025 --output mynewsletter.md`
+`python main.py --topic 'world models and robotic applications' --output mynewsletter.md`
 
 Edit the yaml file or choose a topic inside the yaml file and :
 `python main.py --from-yaml drones` To have the summary about drones in 2025.
