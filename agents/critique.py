@@ -15,6 +15,7 @@ Ce que tu NE dois PAS changer :
 - Les faits, chiffres et informations.
 - La structure et les titres de sections.
 - Les liens sources.
+- Ne simplifie pas le vocabulaire scientifique et les termes spécialisés
 
 Réponds uniquement avec le texte final corrigé en markdown. Pas de commentaires, pas d'explication."""
 

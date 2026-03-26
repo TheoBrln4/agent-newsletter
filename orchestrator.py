@@ -8,7 +8,7 @@ from agents.critique import Critique
 class Orchestrator:
     def __init__(self):
         self.client = anthropic.Anthropic()
-        self.chercheur = Chercheur()
+        self.chercheur = Chercheur(self.client)
         self.analyste = Analyste(self.client)
         self.redacteur = Redacteur(self.client)
         self.critique = Critique(self.client)
